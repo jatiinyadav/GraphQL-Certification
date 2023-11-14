@@ -23,7 +23,7 @@ const resolvers = {
         return {
           code: 200,
           success: true,
-          message: `Successfully incremented number of views for track ${id}`,
+          message: `Incremented number of views for track ${id}`,
           track
         };
       } catch (err) {
