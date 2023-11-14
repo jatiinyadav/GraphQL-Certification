@@ -28,7 +28,7 @@ In another Terminal window,
 1. Run `npm install`.
 1. Run `npm start`.
 
-This will open up `localhost:3000` in your web browser.
+This will open up `http://localhost:3000` in your web browser.
 
 ## Getting Help
 
